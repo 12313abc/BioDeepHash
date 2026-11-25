@@ -60,4 +60,4 @@ Refer to the paper for the experiment settings. Run `python -m biodeephash <data
 
 ## License
 
-This repository includes the MIT license and its copyright notice. [License](LICENSE)
+See [LICENSE](LICENSE) for licensing terms.
